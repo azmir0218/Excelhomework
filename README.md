@@ -18,6 +18,8 @@ To demonstrate current knowledge in VBA by analyzing stock market data.
 
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
+<img width="592" alt="Screen Shot 2021-10-28 at 6 29 10 PM" src="https://github.com/azmir0218/VBA-Challenge/blob/main/2014%20Stock%20Data.png">
+
 
 
 ## Tools Used
